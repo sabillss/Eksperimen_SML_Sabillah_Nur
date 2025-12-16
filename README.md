@@ -3,7 +3,7 @@
 ## Deskripsi
 Project submission MSML:
 - **Kriteria 1**: Data loading, EDA, dan preprocessing dataset Student Performance (UCI).
-- **Kriteria 2 *: Training model Scikit-Learn dengan **MLflow Tracking lokal** menggunakan **MLflow autolog** + screenshot dashboard & artifacts.
+- **Kriteria 2**: Training model Scikit-Learn dengan **MLflow Tracking lokal** menggunakan **MLflow autolog** + screenshot dashboard & artifacts.
 
 ## Struktur Folder
 - `namadataset_raw/` : dataset mentah (raw)
